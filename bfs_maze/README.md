@@ -1,0 +1,2 @@
+BFS Maze:
+This is a flutter app that demonstrates the working of the Breadth First Search Algorithm of Artificial Intelligence. The red blocks are randomly generated after every click on the restart button. A path will be highlighted from Start to Goal only if it exists.
